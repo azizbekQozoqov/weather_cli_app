@@ -11,7 +11,7 @@ I created Weather CLI app using **[OpenWeatherMap api](https://OpenWeatherMap.or
 ```bash
 git clone https://github.com/azizbekQozoqov/weather_cli_app.git
 ```
-# 3. Second step for use this app
+# 3. Third step for use this app
 
 Open the main.py file and put your API key in the API_KEY variable and run the code
 
