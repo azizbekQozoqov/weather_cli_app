@@ -1,2 +1,2 @@
-# weather_gui_app
+# weather_cli_app
 Create weather gui app using OpenWeatherMap API
